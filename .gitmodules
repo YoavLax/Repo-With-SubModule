@@ -1,3 +1,3 @@
-[submodule "Test"]
-	path = Test
-	url = https://github.com/YoavLax/Test.git
+[submodule "CSS-SubModule"]
+	path = CSS-SubModule
+	url = https://github.com/YoavLax/CSS-SubModule.git
